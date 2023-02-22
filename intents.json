@@ -1,6 +1,124 @@
 {
   "intents": [
     {
+      "tag": "cheating",
+      "patterns": [
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "topics",
+      "patterns": [
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "officeHours",
+      "patterns": [
+        "What time are office hours?",
+        "When are office hours?",
+        "When can I meet with the professor outside of class?",
+        "When can I meet with the TA outside of class?",
+        "What are the office hours for Professor Shi and Steven Walton?",
+        "When is Steven Walton available to meet with students outside of class?",
+        "Could you please tell me the location of Professor Shi's office?",
+        "What is the best way to contact Steven Walton during their office hours?",
+        "Can I schedule an appointment with Professor Shi outside of their office hours?",
+        "Does Steven Walton hold office hours during the weekend?",
+        "Can you tell me the office hours for Professor Shi for next week?",
+        "What is the maximum amount of time I can spend with Professor Shi during office hours?",
+        "Do I need to make an appointment to meet with Steven Walton during their office hours?",
+        "Are there any changes to Steven Walton's office hours for this week?",
+        "How long does Steven Walton hold office hours on Mondays?",
+        "What is the preferred method of communication with Professor Shi during office hours?",
+        "Can you provide me with a list of topics that Steven Walton can help me with during their office hours?",
+        "What is the latest time I can arrive for Steven Walton's office hours?",
+        "Can I bring a friend or classmate to the office hours with me?",
+        "Can you recommend a good time to meet with Professor Shi during their office hours?",
+        "Do I need to sign up in advance to meet with Steven Walton during their office hours?",
+        "Can you tell me if Professor Shi's office is handicap-accessible?",
+        "Are there any restrictions or limitations to the amount of questions I can ask during office hours?",
+        "Is Steven Walton available to meet with me outside of their office hours?",
+        "What are the busiest times for Professor Shi's office hours?",
+        "Can I schedule a virtual meeting with Steven Walton during their office hours?",
+        "Can you tell me what specific course-related questions Steven Walton can help me with during their office hours?",
+        "What is the email address I can use to contact Professor Shi during their office hours?",
+        "Can I still meet with Steven Walton during their office hours if I missed their class that day?",
+        "Can I meet with Professor Shi during office hours if I am not currently enrolled in their course?",
+        "Do I need to bring anything specific to meet with Steven Walton during their office hours?",
+        "Can you tell me the office hours for Professor Shi during finals week?",
+        "What is the average wait time to meet with Steven Walton during their office hours?",
+        "Do I need to make an appointment to meet with Professor Shi during their office hours?",
+        "Can Steven Walton help me with questions related to the course syllabus during their office hours?",
+        "What are the policies regarding late arrivals to Steven Walton's office hours?",
+        "Can I still meet with Professor Shi during office hours if I have already graduated from the course?",
+        "Are there any specific guidelines for asking questions during Steven Walton's office hours?",
+        "Can you tell me the earliest time I can arrive for Professor Shi's office hours?",
+        "What is the process for rescheduling a meeting with Steven Walton during their office hours?",
+        "Can I meet with Professor Shi during office hours if I need help with a personal matter?",
+        "What is the best way to prepare for meeting with Steven Walton during their office hours?",
+        "Can you tell me if there are any group study sessions during Professor Shi's office hours?"
+      ],
+      "responses": [
+        "Professor Shi and Steven Walton have office hours by appointment only. Please contact either of them to schedule an appointment."
+      ]
+    },
+    {
+      "tag": "lectureLocation",
+      "patterns": [
+        "Where is the lecture room for CS 472 located?",
+        "What is the location of the lecture room for this course?",
+        "What is the physical address of the building where the lectures are held?",
+        "What building is the lecture room for CS 472 located in?",
+        "What is the room number of the lecture room for this course?",
+        "Can you tell me the name of the building where the lecture room is located?",
+        "What is the name of the lecture room for CS 472?",
+        "Where can I find the lecture room for CS 472?",
+        "Can you tell me where the lecture room for this course is located?",
+        "What is the street address of the building where the lectures are held?",
+        "Which building houses the lecture room for CS 472?",
+        "Do you happen to know the number of the lecture room for this course?",
+        "Could you give me the name of the building where the lecture room is situated?",
+        "What is the designated name of the lecture room for CS 472?",
+        "where's the lecture room for CS 472 at?",
+        "where's the lecture room for this class?",
+        "Do you know where lectures will be held?",
+        "where's class?",
+        "where is class?",
+        "can you tell me where lectures take place?",
+        "where will lecture be?",
+        "do you know where lecture is?",
+        "What's the address for the building where we have class?",
+        "Which building is the lecture room for CS 472 in?",
+        "What's the room number for class?",
+        "What's the name of the building where we have class?",
+        "What's the name of our classroom?"
+      ],
+      "responses": [
+        "Lectures are located in room 166 in Lawrence hall"
+      ]
+    },
+    {
+      "tag": "zoom",
+      "patterns": [
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "accomadations",
+      "patterns": [
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
       "tag": "greeting",
       "patterns": [
         "Hi",
