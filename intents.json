@@ -548,6 +548,7 @@
     {
       "tag": "lectures",
       "patterns": [
+        "When will class start?",
         "When is class?",
         "What days are classes?",
         "What time is lecture?",
@@ -705,6 +706,7 @@
     {
       "tag": "textbook",
       "patterns": [
+        "Where can I buy the course textbook?",
         "What are the required texts for CS 472?",
         "Does CS 472 have any required textbooks?",
         "What textbooks do I need for this class?",
