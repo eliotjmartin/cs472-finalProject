@@ -131,6 +131,7 @@
       "tag": "lectureLocation",
       "patterns": [
         "What building will class be in?",
+        "What room will class be in?",
         "Where is the lecture room for CS 472 located?",
         "What is the location of the lecture room for this course?",
         "What is the physical address of the building where the lectures are held?",
