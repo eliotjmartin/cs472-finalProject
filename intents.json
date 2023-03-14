@@ -1386,6 +1386,16 @@
     {
       "tag": "sick",
       "patterns": [
+        "I am sick",
+        "I do not feel well",
+        "I have covid-19",
+        "I have a runny nose",
+        "I have the flu",
+        "I feel sick",
+        "I have a fever",
+        "I was sick recently but I feel better now",
+        "My roommate has covid",
+        "What should I do if my friend gets covid",
         "I do not feel well. What should I do?",
         "I have a fever. Can I come to class?",
         "What should I do if I test positive for COVID-19 or have been in close contact with someone who has tested positive?",
