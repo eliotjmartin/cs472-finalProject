@@ -1031,6 +1031,8 @@
     {
       "tag": "professor",
       "patterns": [
+        "Is Humphrey Shi the TA?",
+        "Is Humphrey Shi the professor?",
         "Who is the professor for this course?",
         "Who is the professor?",
         "What is the professor's name?",
@@ -1066,6 +1068,8 @@
     {
       "tag": "GE",
       "patterns": [
+        "Is Steven the TA?",
+        "Is Steven Walton the professor?",
         "Who is the GE for this course?",
         "Who is the GE?",
         "What is the GE's name?",
